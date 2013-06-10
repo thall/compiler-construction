@@ -1,0 +1,8 @@
+
+To compile the compiler, cd src && make, an jlc binary file will be created in
+the root directory.
+
+./jlc <file>
+
+The Javalette languge is specified in Javalette.cf in the source directory.
+No optional features are implemented.
